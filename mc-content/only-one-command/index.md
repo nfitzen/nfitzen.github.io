@@ -23,9 +23,9 @@ Alternatively, use the button below it to automatically copy it for you.
 
 #### List of Only One Command Creations
 
-[Craftable Elytra](#Craftable-Elytra)
+[Craftable Elytra](#craftable-elytra)
 
-[More PVP Items](#More-PvP-Items)
+[More PVP Items](#more-pvp-items-18-only)
 
 [Better Recipes](#brecipes)
 
@@ -84,7 +84,7 @@ Alternatively, use the button below it to automatically copy it for you.
 
 
 
-## Better Recipes (1.9/1.10)
+## Better Recipes \(1.9\/1.10\)
 
 <button class="copybutton" onclick="copytoClipboard('brecipes');">Copy to clipboard</button>
 
