@@ -7,7 +7,7 @@ title: YT Tweeting
 
 ### Tweet that you liked a YouTube video. Just paste the URL below and click Tweet me!
 
-<div>
+<div markdown="0">
 <input id="yt-url-textbox" />
 <a href="javascript:open_tweet_dialog(document.getElementById('yt-url-textbox').value,'AIzaSyCWi1MRJNSoxmu4XsUFwJDBj01ND_vP76U')" markdown="0"><img src="tweetme-button.png" style="width:75px;height:25px;vertical-align:middle;"></img></a>
 </div>
