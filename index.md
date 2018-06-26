@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 # Nathaniel / NateROCKS112 / nfitzen's Website
