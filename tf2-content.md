@@ -5,9 +5,13 @@ title: TF2 Content
 
 # My Custom TF2 Content
 
-So I created a few TF2 scripts... they're a bit buggy but they still work. You can download it here:
+So I created a few TF2 scripts\.\.\. they're a bit buggy but they still work. You can download it here:
 
 [Download](//github.com/nfitzen/tf2-content/releases/latest){:target="_blank"}
+
+[Usage](//github.com/nfitzen/tf2-content/README.md#Usage)
+
+Source: [GitHub/nfitzen/tf2-content](//github.com/nfitzen/tf2-content)
 
 I have a custom 7zSD.sfx for installing to your TF2 custom directory. This is what I use:
 
