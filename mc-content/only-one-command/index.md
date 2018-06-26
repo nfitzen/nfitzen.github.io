@@ -70,7 +70,6 @@ Alternatively, use the button below it to automatically copy it for you.
 ## More PvP Items \(1.8 only\)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UmKv_wfiYKs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br>
 
 <button class="copybutton" onclick="copytoClipboard('mpvpitms');">Copy to clipboard</button>
 

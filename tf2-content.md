@@ -11,6 +11,6 @@ So I created a few TF2 scripts... they're a bit buggy but they still work. You c
 
 I have a custom 7zSD.sfx for installing to your TF2 custom directory. This is what I use:
 
-[Custom SFX Module](https://raw.githubusercontent.com/OlegScherbakov/7zSFX/master/files/7zsd_extra_162_3888.7z){:target="_blank"}
+[Custom SFX Module](//raw.githubusercontent.com/OlegScherbakov/7zSFX/master/files/7zsd_extra_162_3888.7z)
 
 (I use the 7zsd_All.sfx)
