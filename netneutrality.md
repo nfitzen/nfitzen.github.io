@@ -42,11 +42,11 @@ Here are some tools to take action:
 
 [Battle for the Net](https://www.battleforthenet.com) provides further reading, as well as easy ways to contact your local representatives. Recommended 
 
-[Resistbot](https://resist.bot/) provides an easy way to contact representatives no matter the issue. I'd recommend both [BftN](https://www.battleforthenet.com) and [Resistbot](https://resist.bot).
+[Resistbot](https://resist.bot/){: target="_blank"} provides an easy way to contact representatives no matter the issue. I'd recommend both [BftN](https://www.battleforthenet.com) and [Resistbot](https://resist.bot){: target="_blank"}.
 
 Note: if you just want to use [Resistbot](https://resist.bot/) on the fly, just text [RESIST to 50409](sms:50409?body=RESIST) or use [Telegram](https://t.me/resistbot/) or [FB Messenger](https://www.messenger.com/t/resistbot)
 
-The [Telegram](https://t.me/resistbot/) and [Messenger](https://www.messenger.com/t/resistbot) options are preferred as there are no SMS fees for [Resistbot](https://resist.bot/).
+The [Telegram](https://t.me/resistbot/) and [Messenger](https://www.messenger.com/t/resistbot) options are preferred as there are no SMS fees for [Resistbot](https://resist.bot/){:target="_blank"}.
 
 Note that the reason these need your address is because if Congress is not provided with the address of the constituent, the message is immediately marked as invalid.
 
