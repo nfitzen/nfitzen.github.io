@@ -2,6 +2,7 @@
 layout: default
 title: YT Tweeting
 ---
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="dentist.min.js"></script>
 <script src="generate-tweet.js"></script>
 
