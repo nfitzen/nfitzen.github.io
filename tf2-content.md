@@ -9,7 +9,7 @@ So I created a few TF2 scripts\.\.\. they're a bit buggy but they still work. Yo
 
 [Download](//github.com/nfitzen/tf2-content/releases/latest){:target="_blank"}
 
-[Usage](//github.com/nfitzen/tf2-content/README.md#Usage)
+[Usage](//github.com/nfitzen/tf2-content/blob/master/README.md#usage)
 
 Source: [GitHub/nfitzen/tf2-content](//github.com/nfitzen/tf2-content)
 
