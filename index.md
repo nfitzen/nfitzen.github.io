@@ -5,11 +5,13 @@ title: Home
 
 # Nathaniel / NateROCKS112 / nfitzen's Website
 
-### Net neutrality is not dead yet, so please help! [Here's some tips to convince others!](netneutrality)
+<p id="nn" markdown="0">Net neutrality is \*not\* dead yet, so please help! [Here's some tips to convince others!](netneutrality)</p>
 
 Hello,
 
 I am nfitzen, as well as NateROCKS112 on many of my used web services.
+
+Here are some things that I've done for fun:
 
 [Super Mario Odyssey balloon codes](smoballooncodes/)
 
