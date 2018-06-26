@@ -5,7 +5,8 @@ title: Home
 
 # Nathaniel / NateROCKS112 / nfitzen's Website
 
-<p id="nn" markdown="0">Net neutrality is \*not\* dead yet, so please help! [Here's some tips to convince others!](netneutrality)</p>
+Net neutrality is *not* dead yet, so please help! [Here's some tips to convince others!](netneutrality)
+{: #nn}
 
 Hello,
 
