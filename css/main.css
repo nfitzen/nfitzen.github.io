@@ -1,0 +1,157 @@
+@font-face {
+    
+    font-family: "Mario Font";
+    
+    src: url("/css/mario-font.otf");
+    
+}
+
+body {
+    
+    font-family: "Mario Font";
+    
+    background-color: black;
+}
+
+#container a:link, a.normal {
+    
+    color: #ccffff;
+    text-decoration: underline
+    
+}
+
+#container h1 a:link:hover,
+    #container h2 a:link:hover,
+    #container h3 a:link:hover,
+    #container h4 a:link:hover,
+    #container h5 a:link:hover,
+    #container h6 a:link:hover,
+    #container a:link:hover,
+    
+    #container h1 a:visited:hover,
+    #container h2 a:visited:hover,
+    #container h3 a:visited:hover,
+    #container h4 a:visited:hover,
+    #container h5 a:visited:hover,
+    #container h6 a:visited:hover,
+    #container a:visited:hover,
+    a:link:hover, a:visited:hover {
+    
+    color: #FF0000;
+    
+}
+
+
+#container a:visited {
+    
+    color: #ccffff;
+    
+}
+
+#header {
+    
+    width: 900px;
+    
+    height: 170px;
+    
+    margin: 0 auto;
+    
+    top: 5;
+    
+}
+
+#header-logo {
+    
+    color: white;
+    
+    position: relative;
+    
+    float: left;
+    
+    width: 150px;
+    
+    height: 175px;
+    
+}
+
+#logo-text {
+    
+    position: absolute;
+    
+    width: 100%;
+    
+    bottom: 0;
+    
+    text-align: center;
+    
+    font-size: 18px;
+    
+}
+
+#logo {
+    
+    position: absolute;
+    
+    top: 0;
+    
+}
+
+#header-menu {
+    
+    float: right;
+    
+}
+
+#header-menu button {
+    
+    width: 125px;
+    
+    height: 50px;
+    
+    margin-top: 50px;
+    
+    margin-left: 10px;
+    
+    text-align: center;
+    
+    vertical-align: center;
+    
+    font-family: "Mario Font";
+    
+    color: white;
+    
+    background-color: black;
+    
+    border: 1px solid #333;
+    
+}
+
+#youtube-btn, #twitter-btn, #home-btn {
+    
+    font-size: 20px;
+    
+}
+
+#ooc-btn {
+    
+    font-size: 25px;
+    
+}
+
+#header-menu button:hover {
+    
+    background-color: #333;
+    
+}
+
+#container {
+    
+    color: white;
+    
+    width: 900px;
+    
+    margin: 0 auto;
+    
+    margin-top: 10
+    
+}
