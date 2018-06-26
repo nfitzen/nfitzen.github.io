@@ -1,3 +1,3 @@
 <script>
-window.location = 'FitzenS/new'
+window.location = 'new'
 </script>

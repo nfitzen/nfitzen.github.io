@@ -1,6 +1,7 @@
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script src="/inheritancescript.js" data-title="My Skin - Old"></script>
-<script src="https://widget.battleforthenet.com/widget.js" async></script>
+---
+layout: default
+title: My Skin - Old
+---
 
 <style>
 	img[alt=render]	{ width: 50; height: 113 }
@@ -10,25 +11,25 @@
 
 My skin looks roughly like this:
 
-![render](/mc-skin/FitzenN/render.png)
+![render](../render.png)
 
-## [New skins](new)
+## [New skins](../new)
 (changes orange N on back into
 red N, also can take the ninja suit off)
 
-## [Old skins](old)
+## [Old skins]()
 (does not have the ability to take suit off; has an orange N on the back)
 
 
 
 #### Old Alex Modeled Skin:
 
-[![skin](old/alex.png)](https://keybase.pub/nfitzen/mc-skin/FitzenN/old/alex.png)
+[![skin](old/alex.png)](//raw.githubusercontent.com/nfitzen/nfitzen.github.io/master/mc-skin/FitzenN/old/alex.png)
 
-[Apply to Minecraft](old/apply)
+[Apply to Minecraft](apply)
 
 #### Old Steve Modeled Skin:
 
-[![skin](old/steve.png)](https://keybase.pub/nfitzen/mc-skin/FitzenN/old/steve.png)
+[![skin](old/steve.png)](//raw.githubusercontent.com/nfitzen/nfitzen.github.io/master/mc-skin/FitzenN/old/steve.png)
 
-[Apply to Minecraft](old/apply/steve)
+[Apply to Minecraft](apply/steve)

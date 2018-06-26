@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Skin - new
+title: My Skin - New
 ---
 
 <style>
@@ -11,25 +11,25 @@ title: My Skin - new
 
 My skin looks roughly like this:
 
-![render](/mc-skin/FitzenN/render.png)
+![render](../render.png)
 
-## [New skins](new)
+## [New skins]()
 (changes orange N on back into
 red N, also can take the ninja suit off)
 
-## [Old skins](old)
+## [Old skins](../old/)
 (does not have the ability to take suit off; has an orange N on the back)
 
 
 
 #### New Alex Modeled Skin:
 
-[![skin](new/alex.png)](https://keybase.pub/nfitzen/mc-skin/FitzenN/new/alex.png)
+[![skin](new/alex.png)](//raw.githubusercontent.com/nfitzen/nfitzen.github.io/master/mc-skin/FitzenN/new/alex.png)
 
-[Apply to Minecraft](new/apply)
+[Apply to Minecraft](apply)
 
 #### New Steve Modeled Skin:
 
-[![skin](new/steve.png)](https://keybase.pub/nfitzen/mc-skin/FitzenN/new/steve.png)
+[![skin](new/steve.png)](//raw.githubusercontent.com/nfitzen/nfitzen.github.io/master/mc-skin/FitzenN/new/steve.png)
 
-[Apply to Minecraft](new/apply/steve)
+[Apply to Minecraft](apply/steve)
