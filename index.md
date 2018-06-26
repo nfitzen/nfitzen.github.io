@@ -15,7 +15,7 @@ I am nfitzen, as well as NateROCKS112 on many of my used web services.
 
 [My Minecraft media and misc. things (in case you're interested)](mc-content/)
 
-[My TF2 content (in case you're interested)](tf2-content/)
+[My TF2 content (in case you're interested)](tf2-content)
 
 [I prefer having my tweets about YouTube videos slightly better so here's a tweak](like-tweet-generator/)
 
