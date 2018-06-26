@@ -11,7 +11,7 @@ title: FitzenS's Skin - Old
 
 FitzenS's skin looks roughly like this:
 
-![render](/mc-skin/FitzenS/render.png)
+![render](../render.png)
 
 ## [New skin](../new/)
 (can take suit off)
@@ -21,6 +21,6 @@ FitzenS's skin looks roughly like this:
 
 #### Old Steve Modeled Skin:
 
-[![skin](old/steve.png)](//raw.githubusercontent.com/nfitzen/nfitzen.github.io/master/mc-skin/FitzenS/old/steve.png)
+[![skin](steve.png)](//raw.githubusercontent.com/nfitzen/nfitzen.github.io/master/mc-skin/FitzenS/old/steve.png)
 
 [Apply to Minecraft](apply)

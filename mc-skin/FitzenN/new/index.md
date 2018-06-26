@@ -24,12 +24,12 @@ red N, also can take the ninja suit off)
 
 #### New Alex Modeled Skin:
 
-[![skin](new/alex.png)](//raw.githubusercontent.com/nfitzen/nfitzen.github.io/master/mc-skin/FitzenN/new/alex.png)
+[![skin](alex.png)](//raw.githubusercontent.com/nfitzen/nfitzen.github.io/master/mc-skin/FitzenN/new/alex.png)
 
 [Apply to Minecraft](apply)
 
 #### New Steve Modeled Skin:
 
-[![skin](new/steve.png)](//raw.githubusercontent.com/nfitzen/nfitzen.github.io/master/mc-skin/FitzenN/new/steve.png)
+[![skin](steve.png)](//raw.githubusercontent.com/nfitzen/nfitzen.github.io/master/mc-skin/FitzenN/new/steve.png)
 
 [Apply to Minecraft](apply/steve)

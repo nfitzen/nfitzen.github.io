@@ -13,14 +13,14 @@ FitzenB's skin looks roughly like this:
 
 ![render](../render.png)
 
-## [New skin](new)
+## [New skin](../new)
 (can take suit off)
 
-## [Old skin](old)
+## [Old skin]()
 (does not have the ability to take suit off)
 
 #### New Steve Modeled Skin:
 
-[![skin](old/steve.png)](//raw.githubusercontent.com/nfitzen/nfitzen.github.io/master/mc-skin/FitzenB/old/steve.png)
+[![skin](steve.png)](//raw.githubusercontent.com/nfitzen/nfitzen.github.io/master/mc-skin/FitzenB/old/steve.png)
 
 [Apply to Minecraft](apply)
