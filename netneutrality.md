@@ -7,7 +7,7 @@ title: Net Neutrality
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&autoLogAppEvents=1';
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1?version=3.0&autoLogAppEvents=1';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 <div class="fb-customerchat"
@@ -62,4 +62,4 @@ Share this!
 
 <div class="fb-share-button" data-href="https://nathaniel.fitzenrider.com/netneutrality" data-layout="button" data-size="large" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnathaniel.fitzenrider.com%2Fnetneutrality&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 
-\[resist\]: https://resist.bot/ {:target="_blank"}
+[resist]: https://resist.bot/{:target="_blank"}
