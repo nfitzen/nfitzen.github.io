@@ -1,2 +1,4 @@
 name: NateROCKS112
 markdown: kramdown
+plugins:
+  - jemoji
