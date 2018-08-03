@@ -10,8 +10,8 @@ title: Only One Command
 code {
     overflow: hidden;
     color: white;
-    width: 450
-    height: 450
+    width: 450;
+    height: 450;
     margin: auto
 }
 </style>
@@ -70,7 +70,7 @@ Alternatively, use the button below it to automatically copy it for you.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UmKv_wfiYKs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<button class="copybutton" onclick="copy(document.getElementById('file-morepvpitems-txt-LC1').innerHTML)">Copy to clipboard</button>
+<button class="copybutton" onclick="copytoClipboard(document.getElementById('file-morepvpitems-txt-LC1').innerHTML)">Copy to clipboard</button>
 
 <code data-gist-id="9997bd172234f305bc4067cc28ec73ac"
     data-gist-hide-footer="true"
@@ -80,7 +80,7 @@ Alternatively, use the button below it to automatically copy it for you.
 
 ## Better Recipes \(1.9 & 1.10\)
 
-<button class="copybutton" onclick="copy(document.getElementById('file-morepvpitems-txt-LC1').innerHTML)">Copy to clipboard</button>
+<button class="copybutton" onclick="copytoClipboard(document.getElementById('file-morepvpitems-txt-LC1').innerHTML)">Copy to clipboard</button>
 
 <code data-gist-id="15d815f9437c2566ffe5bcbeefa114a2"
     data-gist-hide-footer="true"
