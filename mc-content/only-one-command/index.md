@@ -25,7 +25,7 @@ Alternatively, use the button below it to automatically copy it for you.
 
 [More PVP Items](#more-pvp-items-18-only)
 
-[Better Recipes](#better-recipies-19-110)
+[Better Recipes](#better-recipies-19--110)
 
 
 ## Craftable Elytra:
