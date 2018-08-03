@@ -2,7 +2,7 @@ function copytoClipboard(text) {
     // Create dummy element and append it
     var dummy = document.createElement('input');
     document.body.appendChild(dummy);
-    document.setAttribute('id','dummy-id');
+    dummy.setAttribute('id','dummy-id');
     // Duplicate the given text's value
     document.getElementById('dummy-id').value = text;
     // Select the dummy area
