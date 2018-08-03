@@ -7,7 +7,7 @@ title: Only One Command
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gist-embed/2.7.1/gist-embed.min.js"></script>
 
 <style>
-code {
+div.gist-file {
     overflow: hidden;
     color: white;
     width: 450px;
@@ -34,7 +34,6 @@ Alternatively, use the button below it to automatically copy it for you.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XVVbSVz4zB8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
 ### 1.12:
 
 <button class="copybutton" onclick="copytoClipboard(document.getElementById('file-craftable-elytra-1-12-LC1').innerHTML)">Copy to clipboard</button>
@@ -42,7 +41,7 @@ Alternatively, use the button below it to automatically copy it for you.
 <code data-gist-id="b043f21669a0f59891e8b5ae199e39ec"
     data-gist-hide-footer="true"
     data-gist-hide-line-numbers="true"
-    data-gist-file="Craftable Elytra - 1.12"
+    data-gist-file="Craftable Elytra - 1.12">
 </code>
 
 ### 1.11:
