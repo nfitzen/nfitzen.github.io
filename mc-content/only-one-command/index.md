@@ -10,8 +10,8 @@ title: Only One Command
 code {
     overflow: hidden;
     color: white;
-    width: 450;
-    height: 450;
+    width: 450px;
+    height: 450px;
     margin: auto
 }
 </style>
