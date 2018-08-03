@@ -2,6 +2,7 @@
 layout: default
 title: Only One Command
 ---
+<script src="main.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gist-embed/2.7.1/gist-embed.min.js"></script>
 
@@ -36,17 +37,17 @@ Alternatively, use the button below it to automatically copy it for you.
 
 ### 1.12:
 
-<button class="copybutton" onclick="copy(document.getElementById('file-craftable-elytra-1-12-LC1').innerHTML)">Copy to clipboard</button>
+<button class="copybutton" onclick="copytoClipboard(document.getElementById('file-craftable-elytra-1-12-LC1').innerHTML)">Copy to clipboard</button>
 
 <code data-gist-id="b043f21669a0f59891e8b5ae199e39ec"
     data-gist-hide-footer="true"
     data-gist-hide-line-numbers="true"
-    data-gist-file="Craftable Elytra - 1.11"
+    data-gist-file="Craftable Elytra - 1.12"
 </code>
 
 ### 1.11:
 
-<button class="copybutton" onclick="copy(document.getElementById('file-craftable-elytra-1-11-LC1').innerHTML)">Copy 1.11 version to clipboard</button>
+<button class="copybutton" onclick="copytoClipboard(document.getElementById('file-craftable-elytra-1-11-LC1').innerHTML)">Copy to clipboard</button>
 
 <code data-gist-id="b043f21669a0f59891e8b5ae199e39ec"
     data-gist-hide-footer="true"
@@ -56,7 +57,7 @@ Alternatively, use the button below it to automatically copy it for you.
 
 ### 1.9/1.10:
 
-<button class="copybutton" onclick="copy(document.getElementById('file-craftable-elytra-1-9-1-10-LC1').innerHTML)">Copy to clipboard</button>
+<button class="copybutton" onclick="copytoClipboard(document.getElementById('file-craftable-elytra-1-9-1-10-LC1').innerHTML)">Copy to clipboard</button>
 
 <code data-gist-id="b043f21669a0f59891e8b5ae199e39ec"
     data-gist-hide-footer="true"
