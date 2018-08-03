@@ -7,12 +7,7 @@ title: Only One Command
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gist-embed/2.7.1/gist-embed.min.js"></script>
 
 <style>
-<<<<<<< HEAD
 code, div.gist, div.gist-file, div.gist-data, div.data {
-=======
-div.gist-file {
-    overflow: hidden;
->>>>>>> 3779afde6b564d16ed2a1e58749497996ed0f989
     color: white;
     width: 450px;
     height: 200px
