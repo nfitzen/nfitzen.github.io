@@ -3,3 +3,5 @@ markdown: kramdown
 plugins:
   - jemoji
   - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
