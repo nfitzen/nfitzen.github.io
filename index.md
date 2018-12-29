@@ -24,6 +24,7 @@ For verification purposes, my Keybase profile:
 
 [Keybase/nfitzen](//keybase.io/nfitzen){:target="_blank"}
 
+[Mastodon](https://mastodon.social/@nfitzen){:rel="me" target="_blank"}
 
 
 [Pictures](/pictures/)
