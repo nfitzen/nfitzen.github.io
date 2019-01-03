@@ -30,7 +30,7 @@ Alternatively, use the button below it to automatically copy it for you.
 
 ## Craftable Elytra:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XVVbSVz4zB8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XVVbSVz4zB8?rel=0&showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 1.12:
 
@@ -65,7 +65,7 @@ Alternatively, use the button below it to automatically copy it for you.
 
 ## More PvP Items \(1.8 only\)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UmKv_wfiYKs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UmKv_wfiYKs?rel=0&showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <button class="copybutton" onclick="copytoClipboard(document.getElementById('file-morepvpitems-txt-LC1').innerHTML)">Copy to clipboard</button>
 
