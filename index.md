@@ -5,9 +5,6 @@ title: Home
 
 # Nathaniel / NateROCKS112 / nfitzen's Website
 
-Net neutrality is \*not\* dead yet, so please help! [Here's some tips to convince others!](netneutrality)
-{: #nn}
-
 Hello,
 
 I am nfitzen, as well as NateROCKS112 on many of my used web services.
