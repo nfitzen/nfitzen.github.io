@@ -23,14 +23,20 @@ Here are the [Nightbot] commands (you can set the name to whatever; I use !wr, a
 
 ```!commands add !partwr2dontuse $(2) World Record: $(eval const choice="$(1)"; let top=$(urlfetch json https://www.speedrun.com/api/v1/leaderboards/m1mxxw46/category/7dgrjo7k?top=1&embed=players&var-kn04o9ol=$(1)).data;let time=new Date(null);time.setSeconds(top.runs[0].run.times.primary_t);time.toISOString().slice(11,19).match(/(?![0:]+).+/)+" by "+top.players.data[0].names.international;) (Use !partwr CCS, LWCL, MSSL, or BM for partial game WR)```
 
+[Koopa Freerunning RTA]\:
+
+```!commands add !kfrtawr KFRTA World record: $(eval let top=$(urlfetch json https://www.speedrun.com/api/v1/leaderboards/m1mxxw46/category/jdz8olgd?embed=players&top=1).data;let time=new Date(null);time.setSeconds(top.runs[0].run.times.primary_t);time.toISOString().slice(11,19).match(/(?![0:]+).+/)+" by "+top.players.data[0].names.international;)```
+
 Just copy & paste those into Twitch chat and it'll add the command! (You must be mod or above, obviously.)
 
 [nightbot]: //beta.nightbot.tv/
 {:target="_blank"}
 
-[any%]: //speedrun.com/smo#Any
+[any%]: //www.speedrun.com/smo#Any
 {:target="_blank"}
 
-[aum]: //speedrun.com/smo#All_Unique_Moons{:target="_blank"}
+[aum]: //www.speedrun.com/smo#All_Unique_Moons{:target="_blank"}
 
-[partial game]: //speedrun.com/smoce#Partial_Game_RTAs{:target="_blank"}
+[partial game]: //www.speedrun.com/smoce#Partial_Game_RTAs{:target="_blank"}
+
+[Koopa Freerunning RTA]: //www.speedrun.com/smoce#Koopa_Freerunning_RTA
