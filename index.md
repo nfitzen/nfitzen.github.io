@@ -17,7 +17,7 @@ Here are some things that I've done for fun:
 
 [I prefer having my tweets about YouTube videos slightly better so here's a tweak](like-tweet-generator/)
 
-[I made a command for Nightbot. (More coming soon:tm:)](/nightbot-custom-commands)
+[I made some commands for Nightbot, mostly SMO-related.](/nightbot-custom-commands-legacy)
 
 For verification purposes, my Keybase profile:
 
