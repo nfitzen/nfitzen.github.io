@@ -1,8 +1,5 @@
 function open_tweet_dialog(videoURL, apiKey, newtab = true) {
     var videoId = videoURL.match(/(?:youtu\.be\/|youtube\.com(?:\/embed\/|\/v\/|\/watch\?v=|\/user\/\S+|\/ytscreeningroom\?v=))([\w\-]{10,12})\b/)[1];
-    console.log(videoId);
-    videoId = videoId ? videoId[0]:null;
-    console.log(videoId);
     $.ajax({
         url: "https://www.googleapis.com/youtube/v3/videos?id=" + videoId + "&key="+ apiKey + "&fields=items(snippet(title))&part=snippet",
         dataType: "jsonp",
