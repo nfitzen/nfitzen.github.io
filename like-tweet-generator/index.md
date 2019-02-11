@@ -17,6 +17,6 @@ Alternatively, drag this to your bookmarks (or right-click and select "bookmark 
 <script>
 let params = new URLSearchParams(window.location.search);
 let vidurl = params.get('vidurl');
-if (typeof decodeURIComponent(vidurl) === 'string' || decodeURIComponent(vidurl) instanceof String)
-    open_tweet_dialog(decodeURIComponent(params.vidurl), 'AIzaSyCWi1MRJNSoxmu4XsUFwJDBj01ND_vP76U', false);
+if (typeof vidurl === 'string' || vidurl instanceof String)
+    open_tweet_dialog(vidurl, 'AIzaSyCWi1MRJNSoxmu4XsUFwJDBj01ND_vP76U', false);
 </script>
