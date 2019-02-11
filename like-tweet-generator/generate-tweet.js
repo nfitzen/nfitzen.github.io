@@ -1,6 +1,6 @@
 function open_tweet_dialog(videoURL, apiKey, newtab = true) {
-    let idregexp = /(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/ ]{11})/i;
-    var videoId = videoURL.match(idregexp);
+    var videoId = videoURL.match(/(?:youtu\.be\/|youtube\.com(?:\/embed\/|\/v\/|\/watch\?v=|\/user\/\S+|\/ytscreeningroom\?v=))([\w\-]{10,12})\b/)[1];
+    console.log(videoId);
     videoId = videoId ? videoId[0]:null;
     console.log(videoId);
     $.ajax({
