@@ -15,7 +15,7 @@ jquery: true
 Alternatively, drag this to your bookmarks (or right-click and select "bookmark this link"): <a href="javascript:(function(){window.open('https://nathaniel.fitzenrider.com/like-tweet-generator/?vidurl='+encodeURIComponent(document.URL))})();">Tweet me!</a>
 
 <script>
-let params = URLSearchParams(window.location.search);
+let params = new URLSearchParams(window.location.search);
 let vidurl = params.get('vidurl');
 if (typeof decodeURIComponent(vidurl) === 'string' || decodeURIComponent(vidurl) instanceof String)
     open_tweet_dialog(decodeURIComponent(params.vidurl), 'AIzaSyCWi1MRJNSoxmu4XsUFwJDBj01ND_vP76U', false);
