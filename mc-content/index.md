@@ -3,10 +3,12 @@ layout: default
 title: Minecraft Content
 ---
 
-## [My skin](/mc-skin/)
+[My skin](/mc-skin/)
 
 
-## [Mods that I use](/mc-mods/)
+[Mods that I use](/mc-mods/)
 
 
-## [Only One Command](only-one-command/)
+[Only One Command](only-one-command/)
+
+[Data packs](/data-packs/)
