@@ -11,4 +11,4 @@ title: Minecraft Content
 
 [Only One Command](only-one-command/)
 
-[Data packs](/data-packs/)
+[Data packs](data-packs/)
