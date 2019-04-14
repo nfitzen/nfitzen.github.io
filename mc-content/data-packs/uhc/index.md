@@ -8,14 +8,37 @@ This is a Minecraft data pack that I've been working on for the past week (4/10/
 
 It is an easy-to-use data pack that contains everything necessary for UHC.
 
-Be warned: includes memes
+To setup, go anywhere\* you wish to be the center and run `/function uhc:setup`.
+Participating players may join your world before or after setup. To begin the game, run
+`/function uhc:begin` or click on the link that the setup gave you.
 
-Download [here][pack] \(UHC-v1.0.zip\). The best experience is with the resource pack. Add these to your server.properties:
+:warning: WARNING: INCLUDES MEMES. PROCEED WITH CAUTION :warning:
+
+[Download] \(Version 1.1.0\)
+
+The best <del>meme</del> experience is with the resource pack. Add these to your server.properties:
 
 ```
-resource-pack=https://nathaniel.fitzenrider.com/mc-content/data-packs/uhc/rp.zip
+resource-pack=https://nathaniel.fitzenrider.com/mc-content/data-packs/uhc/resources.zip
 resource-pack-sha1=62AC8B4E3B68BEB3D58A690F5C1DDE6742F6C09C
 ```
 
+\* Anywhere within 1,000 blocks, noninclusive, of the default world border
 
-[pack]: UHC-v1.0.zip
+## Changelog
+### v1.1.0 (4/14/2019)
+- Fixed shrinking worldborder 5m after it's 100 blocks wide
+- Added announcement when 5m before total worldborder collapse
+- Removed killing all non-player entities during setup since it might break villages \& abandoned mineshafts
+- Spawn doesn't leave any barriers behind on game start
+
+### v1.0.0 (4/10/2019)
+- **Initial release**
+- Worldborder shrinks from 2,000&nbsp;x&nbsp;2,000 blocks to 100&nbsp;x&nbsp;100 gradually (3 hours)
+- Spreads players evenly across the map
+- Does not include team functionality
+- I liked [Xisumavoid](//www.xisumavoid.com/)'s system for segmenting data packs, as it makes it more clean
+    - However, since this is a UHC data pack, and the world is only temporary, I felt no need for an uninstall script
+- <del>Dumb memes:tm:</del>
+
+[download]: UHC-v1.1.0.zip
