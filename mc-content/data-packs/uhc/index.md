@@ -14,18 +14,23 @@ Participating players may join your world before or after setup. To begin the ga
 
 :warning: WARNING: INCLUDES MEMES. PROCEED WITH CAUTION :warning:
 
-[Download] \(Version 1.1.0\)
+[Download] \(Version 1.1.1\)
 
 The best <del>meme</del> experience is with the resource pack. Add these to your server.properties:
 
 ```
-resource-pack=https://nathaniel.fitzenrider.com/mc-content/data-packs/uhc/resources.zip
+resource-pack=https://nfitzen.keybase.pub/mc-content/datapacks/uhc/resources.zip
 resource-pack-sha1=62AC8B4E3B68BEB3D58A690F5C1DDE6742F6C09C
 ```
 
 \* Anywhere within 1,000 blocks, noninclusive, of the default world border
 
 ## Changelog
+
+### v1.1.1 (4/14/2019)
+
+- Massive bug fixes (1.1.0 doesn't even work LOL)
+
 ### v1.1.0 (4/14/2019)
 - Fixed shrinking worldborder 5m after it's 100 blocks wide
 - Added announcement when 5m before total worldborder collapse
@@ -41,4 +46,4 @@ resource-pack-sha1=62AC8B4E3B68BEB3D58A690F5C1DDE6742F6C09C
     - However, since this is a UHC data pack, and the world is only temporary, I felt no need for an uninstall script
 - <del>Dumb memes:tm:</del>
 
-[download]: UHC-v1.1.0.zip
+[download]: UHC-v1.1.1.zip
