@@ -14,7 +14,7 @@ Participating players may join your world before or after setup. To begin the ga
 
 :warning: WARNING: INCLUDES MEMES. PROCEED WITH CAUTION :warning:
 
-[Download][v2.0.0] \(Version 2.0.0\)
+[Download][v2.0.1] (Version 2.0.1)
 
 The best <del>meme</del> experience is with the resource pack (otherwise things will be confusing).
 Add these to your server.properties or [download the resource pack][resources]
@@ -27,6 +27,10 @@ resource-pack-sha1=e40df64543112c91f37b897fe3ba17a12479ac86
 \* Anywhere within 1,000 blocks, noninclusive, of the default world border
 
 ## Changelog
+
+### [v2.0.1] (4/30/2019)
+
+- Added saturation on spawn platform for those online when running the setup function. It seems I forgot that...
 
 ### [v2.0.0] (4/29/2019)
 
@@ -57,6 +61,8 @@ resource-pack-sha1=e40df64543112c91f37b897fe3ba17a12479ac86
 - I liked [Xisumavoid](//www.xisumavoid.com/)'s system for segmenting data packs, as it makes it more clean
     - However, since this is a UHC data pack, and the world is only temporary, I felt no need for an uninstall script
 - <del>Dumb memes:tm:</del>
+
+[v2.0.1]: UHC-v2.0.1.zip
 
 [v2.0.0]: UHC-v2.0.0.zip
 
