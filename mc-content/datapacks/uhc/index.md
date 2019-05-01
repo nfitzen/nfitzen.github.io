@@ -14,7 +14,7 @@ Participating players may join your world before or after setup. To begin the ga
 
 :warning: WARNING: INCLUDES MEMES. PROCEED WITH CAUTION :warning:
 
-[Download][v2.0.1] (Version 2.0.1)
+[Download][v2.1.0] (Version 2.1.0)
 
 The best <del>meme</del> experience is with the resource pack (otherwise things will be confusing).
 Add these to your server.properties or [download the resource pack][resources]
@@ -27,6 +27,21 @@ resource-pack-sha1=e40df64543112c91f37b897fe3ba17a12479ac86
 \* Anywhere within 1,000 blocks, noninclusive, of the default world border
 
 ## Changelog
+
+### [v2.1.0] (4/30/2019)
+
+- Worldborder collapses faster starting 1<< h in, and goes even faster 2<< h in
+- Uses 1.14's `/schedule` command to reduce lag
+
+### [v2.0.3] (4/30/2019)
+
+- Player win message doesn't appear after every death
+    - It also runs every second now, to reduce server lag.
+
+### [v2.0.2] (4/30/2019)
+
+- Fixed "head eating": didn't work because I forgot a comma in the loot table JSON LOL
+- Player heads now have less risk of giving a spectator regen
 
 ### [v2.0.1] (4/30/2019)
 
@@ -61,6 +76,13 @@ resource-pack-sha1=e40df64543112c91f37b897fe3ba17a12479ac86
 - I liked [Xisumavoid](//www.xisumavoid.com/)'s system for segmenting data packs, as it makes it more clean
     - However, since this is a UHC data pack, and the world is only temporary, I felt no need for an uninstall script
 - <del>Dumb memes:tm:</del>
+
+[v2.1.0]: UHC-v2.1.0.zip
+{:target="_blank"}
+
+[v2.0.3]: UHC-v2.0.3.zip
+
+[v2.0.2]: UHC-v2.0.2.zip
 
 [v2.0.1]: UHC-v2.0.1.zip
 
