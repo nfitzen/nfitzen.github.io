@@ -17,11 +17,13 @@ Participating players may join your world before or after setup. To begin the ga
 [Download][v2.1.0] (Version 2.1.0)
 
 The best <del>meme</del> experience is with the resource pack (otherwise things will be confusing).
-Add these to your server.properties or [download the resource pack][resources]
+Set these values your server.properties or [download the resource pack][resources] (if LAN world)
 
 ```
 resource-pack=https\://nfitzen.keybase.pub/mc-content/datapacks/uhc/resources.zip
-resource-pack-sha1=e40df64543112c91f37b897fe3ba17a12479ac86
+resource-pack-sha1=85c9b40c4f7f50e873293fe99bfaf99adf5f4f89
+gamemode=3
+force-gamemode=true # Only if you wish to automatically kill players who disconnect in the middle of the game!
 ```
 
 \* Anywhere within 1,000 blocks, noninclusive, of the default world border
@@ -30,7 +32,7 @@ resource-pack-sha1=e40df64543112c91f37b897fe3ba17a12479ac86
 
 ### [v2.1.0] (4/30/2019)
 
-- Worldborder collapses faster starting 1<< h in, and goes even faster 2<< h in
+- Worldborder collapses faster starting 1h in, and goes even faster 2h in
 - Uses 1.14's `/schedule` command to reduce lag
 
 ### [v2.0.3] (4/30/2019)
