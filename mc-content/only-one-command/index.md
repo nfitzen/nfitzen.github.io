@@ -4,7 +4,10 @@ title: Only One Command
 jquery: true
 ---
 <script src="main.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gist-embed/2.7.1/gist-embed.min.js"></script>
+<script
+    type="text/javascript"
+    src="https://cdn.jsdelivr.net/npm/gist-embed@1.0.3/dist/gist-embed.min.js">
+</script>
 
 <style>
 code, div.gist, div.gist-file, div.gist-data, div.data {
