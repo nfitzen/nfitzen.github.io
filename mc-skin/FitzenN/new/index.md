@@ -4,32 +4,37 @@ title: My Skin - New
 ---
 
 <style>
-	img[alt=render]	{ width: 50; height: 113 }
-	img[alt=skin]		{ width: 128; height: 128; border: 1px solid white }
+	img[alt=render] {
+		width: 50px;
+		height: 113
+	}
+	img.skin {
+		width: 128px;
+		height: 128px;
+		border: 1px solid white
+	}
 </style>
-## Minecraft Skins:
+# Minecraft Skins
 
 My skin looks roughly like this:
 
-![render](../render.png)
+![render](//crafatar.com/renders/body/8bf41b0f-f2b2-4e8d-8837-542b43178ca3?overlay=true)
 
 ## [New skins]()
 (changes orange N on back into
 red N, also can take the ninja suit off)
 
-## [Old skins](../old/)
+## [Old skins](../old)
 (does not have the ability to take suit off; has an orange N on the back)
 
+#### New Alex-Modeled Skin:
 
+[![Alex (slim) skin](//nfitzen.keybase.pub/mc-skin/FitzenN/new/alex.png){:.skin}](//keybase.pub/nfitzen/mc-skin/FitzenN/new/alex.png)
 
-#### New Alex Modeled Skin:
+[Apply to Minecraft](apply/alex)
 
-[![skin](alex.png)](//raw.githubusercontent.com/nfitzen/nfitzen.github.io/master/mc-skin/FitzenN/new/alex.png)
+#### New Steve-Modeled Skin:
 
-[Apply to Minecraft](apply)
-
-#### New Steve Modeled Skin:
-
-[![skin](steve.png)](//raw.githubusercontent.com/nfitzen/nfitzen.github.io/master/mc-skin/FitzenN/new/steve.png)
+[![Steve skin](//nfitzen.keybase.pub/mc-skin/FitzenN/new/alex.png){:.skin}](//keybase.pub/nfitzen/mc-skin/FitzenN/new/steve.png)
 
 [Apply to Minecraft](apply/steve)
