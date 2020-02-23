@@ -4,15 +4,17 @@ title: My Skin - Old
 ---
 
 <style>
-	img[alt=render] {
-		width: 50px;
-		height: 113
-	}
-	img.skin {
-		width: 128px;
-		height: 128px;
-		border: 1px solid white
-	}
+img[alt=render] {
+	width: 50px;
+	height: 113;
+	image-rendering: pixelated;
+}
+img.skin {
+	width: 128px;
+	height: 128px;
+	border: 1px solid white;
+	image-rendering: pixelated;
+}
 </style>
 # Minecraft Skins
 
