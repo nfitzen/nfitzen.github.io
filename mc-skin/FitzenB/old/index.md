@@ -28,6 +28,6 @@ FitzenB's skin looks roughly like this:
 
 #### Old Steve-Modeled Skin:
 
-[![Steve skin](//nfitzen.keybase.pub/mc-skin/FitzenB/old/alex.png){:.skin}](//keybase.pub/nfitzen/mc-skin/FitzenB/old/steve.png)
+[![Steve skin](//nfitzen.keybase.pub/mc-skin/FitzenB/old/steve.png){:.skin}](//keybase.pub/nfitzen/mc-skin/FitzenB/old/steve.png)
 
 [Apply to Minecraft](apply/steve)

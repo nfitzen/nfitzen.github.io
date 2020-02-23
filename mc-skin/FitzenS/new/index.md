@@ -28,6 +28,6 @@ FitzenS's skin looks roughly like this:
 
 #### New Steve-Modeled Skin:
 
-[![Steve skin](//nfitzen.keybase.pub/mc-skin/FitzenS/new/alex.png){:.skin}](//keybase.pub/nfitzen/mc-skin/FitzenS/new/steve.png)
+[![Steve skin](//nfitzen.keybase.pub/mc-skin/FitzenS/new/steve.png){:.skin}](//keybase.pub/nfitzen/mc-skin/FitzenS/new/steve.png)
 
 [Apply to Minecraft](apply/steve)

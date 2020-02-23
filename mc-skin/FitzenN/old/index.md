@@ -35,6 +35,6 @@ red N, also can take the ninja suit off)
 
 #### Old Steve-Modeled Skin:
 
-[![Steve skin](//nfitzen.keybase.pub/mc-skin/FitzenN/old/alex.png){:.skin}](//keybase.pub/nfitzen/mc-skin/FitzenN/old/steve.png)
+[![Steve skin](//nfitzen.keybase.pub/mc-skin/FitzenN/old/steve.png){:.skin}](//keybase.pub/nfitzen/mc-skin/FitzenN/old/steve.png)
 
 [Apply to Minecraft](apply/steve)
