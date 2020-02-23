@@ -20,11 +20,11 @@ My skin looks roughly like this:
 
 ![render](//crafatar.com/renders/body/8bf41b0f-f2b2-4e8d-8837-542b43178ca3?overlay=true)
 
-## [New skins]()
+## [New skins](../new)
 (changes orange N on back into
 red N, also can take the ninja suit off)
 
-## [Old skins](../old)
+## [Old skins]()
 (does not have the ability to take suit off; has an orange N on the back)
 
 #### Old Alex-Modeled Skin:

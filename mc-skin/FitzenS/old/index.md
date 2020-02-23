@@ -20,10 +20,10 @@ FitzenS's skin looks roughly like this:
 
 ![render](//crafatar.com/renders/body/d6e9c718-0ecb-4a17-9715-66274374e518?overlay=true)
 
-## [New skins]()
+## [New skins](../new)
 (can take the ninja suit off, looks better overall)
 
-## [Old skins](../old)
+## [Old skins]()
 (does not have the ability to take suit off)
 
 #### Old Steve-Modeled Skin:
