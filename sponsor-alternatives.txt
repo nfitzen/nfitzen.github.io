@@ -1,5 +1,7 @@
 Here're some alternatives to YouTube sponsor shit. I'm only listing worst offenders that have clearly superior alternatives directly.
 
+Fork this on GitHub if you have anything to add: https://github.com/nfitzen/nfitzen.github.io. I was thinking of just using GitHub Gist and adding a redirect so that people don't need to clone my entire website, but I wanted people to be able to pull request. Perhaps I'll do that in the future.
+
 --- Beginning paragraph ---
 
 Here are some alternatives to the sponsored products that I have deemed to have directly superior alternatives. (Taken from https://nathaniel.fitzenrider.com/sponsor-alternatives.txt):
@@ -10,7 +12,7 @@ KeePassXC (https://www.keepassxc.org) is a completely free (libre) password mana
 
 --- VPN ---
 
-An alternative to a VPN is just not using one. More than 70% of Web traffic is encrypted with mIlItARy gRaDe eNcRypTioN (HTTPS), which kills more than 99.99% of coffee shop hackers guaranteed. Most sites worth their salt use HTTPS (the padlock icon at the top). People can only see what sites you're visiting (from IP, DNS, etc.), and not the data sent with a standard Web browser. If you really want to hide what sites you're visiting you can just use Tor (https://www.torproject.org/). Tor is a better alternative to a VPN for many reasons, one of them being that it's free (libre). Here's a comprehensive list of them: https://matt.traudt.xyz/p/24tFBCJV.html (taken from https://redd.it/do9fiy).
+An alternative to a VPN is just not using one. More than 70% of Web traffic is encrypted with mIlItARy gRaDe eNcRypTioN (HTTPS), which kills more than 99.99% of coffee shop hackers guaranteed. Most sites worth their salt use it, and you can see if it is by checking the padlock icon near your URL bar and/or seeing if the URL with "https://". People can only see what sites you're visiting (everything before the "/"), and not the data sent with a standard Web browser. If you really want to hide what sites you're visiting you can just use Tor (https://www.torproject.org/). Tor is a better alternative to a VPN for many reasons, one of them being that it's free (libre). Here's a comprehensive list of them: https://matt.traudt.xyz/p/24tFBCJV.html (taken from https://redd.it/do9fiy).
 
 --- Any video game (joke) ---
 
