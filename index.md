@@ -21,4 +21,6 @@ Here are some things that I've done for fun:
 
 For verification purposes, my Keybase profile:
 
-[Keybase/nfitzen](//keybase.io/nfitzen){:target="_blank"}
+[Keybase/nfitzen](//keybase.io/nfitzen)
+
+[This site is on GitHub.](//github.com/nfitzen/nfitzen.github.io)
