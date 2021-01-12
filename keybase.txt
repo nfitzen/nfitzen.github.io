@@ -1,0 +1,60 @@
+SPDX-FileCopyrightText: 2018-2021 Nathaniel Fitzenrider <nathaniel.fitzenrider@gmail.com>
+
+SPDX-License-Identifier: CC-BY-ND-4.0+
+
+==================================================================
+https://keybase.io/nfitzen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nathaniel.fitzenrider.com
+  * I am nfitzen (https://keybase.io/nfitzen) on keybase.
+  * I have a public key ASCmnrroVZuvR8Wg0Pc52XIZWdtfeng8JoH2H3NRFcXn3Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01019b9123d4d10fefc8def7939691d4ea8aabbcee314546d3b9fb4d6e026bae3c420a",
+      "host": "keybase.io",
+      "kid": "0120a69ebae8559baf47c5a0d0f739d9721959db5f7a783c2681f61f735115c5e7dd0a",
+      "uid": "4d9f14340457229d17e903ee41076619",
+      "username": "nfitzen"
+    },
+    "merkle_root": {
+      "ctime": 1530389196,
+      "hash": "2b59fe2475d20cabd4c0171424f9c577e3af44c8e8c456001b774625a80349698042928ea178781abfa4e09b0ab1f02030482f45303f1366a0fbb5489c2bedb4",
+      "hash_meta": "3e89b29c2758707c88d6e2c35bffed1f177cfc2bce11ba8dd04d53384fd3c35f",
+      "seqno": 3180430
+    },
+    "service": {
+      "entropy": "VS2NUoXQxQeGfZ5Ou8VXJt7q",
+      "hostname": "nathaniel.fitzenrider.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.1.2"
+  },
+  "ctime": 1530389272,
+  "expire_in": 504576000,
+  "prev": "2517dc578f33023264f59329e5a4748938788062772963483285363552586351",
+  "seqno": 74,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpp666FWbr0fFoND3OdlyGVnbX3p4PCaB9h9zURXF590Kp3BheWxvYWTESpcCSsQgJRfcV48zAjJk9ZMp5aR0iTh4gGJ3KWNIMoU2NVJYY1HEIKnyM0Ly5+1NDwD4wIOnFs2WOzBkpYGEyyXhl0AT7lTbAgHCo3NpZ8RAIFf9VU1RBGuwSIqRXQXrVAxstWULqRJKd7y+Iyhdl7M6EHwpASE1wdSbcsrYmKIMlee3yMHSePB+uIg1HCkUD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINbHi8qFFMOebO4e/4L6xYSaa95aPMv3hcF6HGZOx4LGo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nfitzen
+
+==================================================================

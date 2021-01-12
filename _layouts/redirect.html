@@ -1,0 +1,18 @@
+<!--
+  ~ SPDX-FileCopyrightText: 2018-2021 Nathaniel Fitzenrider <nathaniel.fitzenrider@gmail.com>
+  ~
+  ~ SPDX-License-Identifier: CC0-1.0+
+  -->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ page.title }}</title>
+        <link rel="canonical" href="{{ page.redirect.to }}" />
+        <meta http-equiv="refresh" content="0; URL='{{ page.redirect.to }}'" />
+    </head>
+    <body>
+        <p>You should be redirecting right now.</p>
+        <p><a href="{{ page.redirect.to }}">Click here if the redirect isn't working.</a></p>
+    </body>
+</html>
