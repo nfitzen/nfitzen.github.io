@@ -12,7 +12,7 @@ jquery: true
 var apiKey = (await $.get("/api-keys/like-tweet-generator/yt-api-key.txt",
     function(data) {
         console.log("Successfully got the API key.");
-    })).trim()
+    })).trim();
 </script>
 <script>
 let vidurl = window.location.hash;
