@@ -9,10 +9,8 @@ jquery: true
   -->
 <script src="generate-tweet.js"></script>
 <script>
-var apiKey = (await $.get("/api-keys/like-tweet-generator/yt-api-key.txt",
-    function(data) {
-        console.log("Successfully got the API key.");
-    })).trim();
+var apiKey = (await $.get("/api-keys/like-tweet-generator/yt-api-key.txt")
+             .trim();
 </script>
 <script>
 let vidurl = window.location.hash;
