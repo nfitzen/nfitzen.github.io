@@ -1,0 +1,28 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: nathaniel.fitzenrider.com
+Upstream-Contact: Nathaniel Fitzenrider <nathaniel.fitzenrider@gmail.com>
+Source: https://github.com/nfitzen/nfitzen.github.io
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
+
+Files: src/favicons/favicon* src/logo.png src/favicon.ico
+Copyright: 2018-2021 Nathaniel Fitzenrider <nathaniel.fitzenrider@gmail.com>
+License: CC-BY-4.0+
+
+Files: src/CNAME
+Copyright: 2018-2021 Nathaniel Fitzenrider <nathaniel.fitzenrider@gmail.com>
+License: CC0-1.0+
+
+Files: src/mc-skin/*.png
+Copyright: 2013, 2015, 2018, 2020 Nathaniel Fitzenrider <nathaniel.fitzenrider@gmail.com>
+License: CC-BY-4.0+
+
+Files: src/like-tweet-generator/tweetme-button.*
+Copyright: 2018 Nathaniel Fitzenrider <nathaniel.fitzenrider@gmail.com>
+License: CC0-1.0+
+Comment: you might have to comply with Twitter's trademark guidelines.
+         <https://about.twitter.com/en_us/company/brand-resources.html>

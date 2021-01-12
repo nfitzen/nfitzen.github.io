@@ -1,5 +1,10 @@
-# Created by https://www.gitignore.io/api/linux,macos,emacs,windows,visualstudiocode,jekyll
-# Edit at https://www.gitignore.io/?templates=linux,macos,emacs,windows,visualstudiocode,jekyll
+
+# SPDX-FileCopyrightText: 2017 Version Control System Fund
+#
+# SPDX-License-Identifier: MIT
+
+# Created by https://www.toptal.com/developers/gitignore/api/linux,macos,emacs,windows,visualstudiocode,jekyll
+# Edit at https://www.toptal.com/developers/gitignore?templates=linux,macos,emacs,windows,visualstudiocode,jekyll
 
 ### Emacs ###
 # -*- mode: gitignore; -*-
@@ -58,7 +63,7 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
-### Linux ###
+### GNU/Linux ###
 
 # temporary files which can be created if a process still has a handle open of a deleted file
 .fuse_hidden*
@@ -66,7 +71,7 @@ _site/
 # KDE directory preferences
 .directory
 
-# Linux trash folder which might appear on any partition or disk
+# GNU/Linux trash folder which might appear on any partition or disk
 .Trash-*
 
 # .nfs files are created when an open file is removed but is still being accessed
@@ -80,6 +85,7 @@ _site/
 
 # Icon must end with two \r
 Icon
+
 
 # Thumbnails
 ._*
@@ -102,14 +108,14 @@ Temporary Items
 
 ### VisualStudioCode ###
 .vscode/*
-!.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
-!.vscode/extensions.json
+*.code-workspace
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
+.ionide
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -137,4 +143,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/linux,macos,emacs,windows,visualstudiocode,jekyll
+# End of https://www.toptal.com/developers/gitignore/api/linux,macos,emacs,windows,visualstudiocode,jekyll

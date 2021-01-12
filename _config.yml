@@ -1,8 +1,0 @@
-name: NateROCKS112
-markdown: kramdown
-plugins:
-  - jemoji
-  - jekyll-redirect-from
-  - jekyll-archives
-whitelist:
-  - jekyll-redirect-from
