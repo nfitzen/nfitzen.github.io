@@ -1,0 +1,20 @@
+# SPDX-FileCopyrightText: 2018-2021 Nathaniel Fitzenrider <nathaniel.fitzenrider@gmail.com>
+#
+# SPDX-License-Identifier: CC0-1.0+
+
+name: NateROCKS112
+source: src
+markdown: kramdown
+plugins:
+    - jemoji
+    - jekyll-redirect-from
+    - jekyll-archives
+whitelist:
+    - jekyll-redirect-from
+
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: default
